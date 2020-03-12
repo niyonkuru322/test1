@@ -53,7 +53,7 @@ nav {
     background: #444;
   }
   body{
-    background-color: turquoise;
+    background-image: image();
     font-family: sans-serif;
   }
   .r{
