@@ -95,7 +95,7 @@ nav {
 }
 
 h1 {
-  font-size: 100px;
+  font-size: 150px;
   color: var(--primary-color);
   transform: translateY(-600px);
   animation: 1.2s slideIn ease-in-out forwards 1s;
@@ -151,4 +151,5 @@ h1::before {
 }
 footer{
   margin-left: 45%;
+  color:blue;
 }
