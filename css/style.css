@@ -61,6 +61,9 @@ nav {
     height: auto;
     opacity: 0.6;
   }
+  img:hover {
+    transform: scaleX(-1);
+  }
   .r{
     margin-left:650px;
   
