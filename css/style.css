@@ -62,8 +62,9 @@ nav {
   img:hover {
     transform: scaleX(-1);
   }
-  .r{
-    margin-left:550px;
+   .r {
+    margin-left:500px;
+    
   
   }
   ul li {
