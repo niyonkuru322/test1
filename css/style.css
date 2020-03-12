@@ -59,6 +59,7 @@ nav {
   img {
     max-width: 100%;
     height: auto;
+    opacity: 0.6;
   }
   .r{
     margin-left:650px;
