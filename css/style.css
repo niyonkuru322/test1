@@ -53,8 +53,12 @@ nav {
     background: #444;
   }
   body{
-    background-image: image();
-    font-family: sans-serif;
+    
+    
+  }
+  img {
+    max-width: 100%;
+    height: auto;
   }
   .r{
     margin-left:650px;
