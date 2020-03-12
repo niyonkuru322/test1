@@ -95,9 +95,9 @@ nav {
 }
 
 h1 {
-  font-size: 150px;
+  font-size: 100px;
   color: var(--primary-color);
-  transform: translateY(-400px);
+  transform: translateY(-600px);
   animation: 1.2s slideIn ease-in-out forwards 1s;
   z-index: 10;
   opacity: 0;
