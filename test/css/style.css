@@ -1,0 +1,28 @@
+.post{
+  margin: 20px;
+}
+.title{
+  background-color:brown;
+  padding: 15px;
+  color: white;
+  font-size: 25px;
+  font-weight: bolder;
+}
+.describe{
+  background-color: #f1f1f1;
+  padding: 15px;
+}
+#left{
+  width: 800px;
+  height: 600px;
+  float: left;
+}
+.right{
+  padding-top: 20px;
+  float: right;
+  height: 200px;
+  width: 440px;
+}
+h1{
+  padding-left: 280px;
+}
